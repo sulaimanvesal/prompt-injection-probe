@@ -1,0 +1,16 @@
+[
+  "tests/test_attacks.py::test_attack_ids_unique",
+  "tests/test_attacks.py::test_benign_response_is_not_a_hit",
+  "tests/test_attacks.py::test_catalog_has_expected_size",
+  "tests/test_attacks.py::test_categories_cover_known_techniques",
+  "tests/test_attacks.py::test_every_attack_canary_is_detectable",
+  "tests/test_attacks.py::test_every_attack_has_prompt_and_check",
+  "tests/test_attacks.py::test_list_attacks_filters",
+  "tests/test_scanner.py::test_category_filtering_flows_through_scanner",
+  "tests/test_scanner.py::test_crashing_target_does_not_kill_scan",
+  "tests/test_scanner.py::test_hardened_agent_resists_everything",
+  "tests/test_scanner.py::test_markdown_report_structure",
+  "tests/test_scanner.py::test_scan_report_math",
+  "tests/test_scanner.py::test_terminal_report_mentions_score_and_failures",
+  "tests/test_scanner.py::test_vulnerable_agent_is_compromised_by_most_attacks"
+]
